@@ -1,3 +1,10 @@
-D:/An_4/Semestrul_2/Proiecte/SD/DataSet_Email_Phishing/CEAS_08_Copy.csv
+IMAP YAHOO Login (no need to type in your actual password)
 
-bahenegdbmxhgsoy
+======CREATE AN APP PASSWORD FOR YAHOO ACCOUNT=======
+
+1. Go yo Yahoo - Login Page and enable 2FA(choose via phone number or app)
+2. In "Security" menu look for "Manage app passwords" or "App password"
+3. Click on "Generate app password"
+4. Choose "Other App" or "Custom Name" and enter a name for your project
+5. Yahoo will generate a secure app password for you.
+6. Copy this password. This is the password you will use in the project.
